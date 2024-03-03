@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_mww00aY1Ee6kkJ3ao3u8fQ" name="media_source" id="_mww00KY1Ee6kkJ3ao3u8fQ" dataPackage="_mww00qY1Ee6kkJ3ao3u8fQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/Errachdi/Desktop/Media_data - Copy.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_mww00qY1Ee6kkJ3ao3u8fQ" name="default" dataManager="_mww00aY1Ee6kkJ3ao3u8fQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_mww006Y1Ee6kkJ3ao3u8fQ" id="_OSTh4KY1Ee6kkJ3ao3u8fQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mww01KY1Ee6kkJ3ao3u8fQ" label="id" length="10" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mww01aY1Ee6kkJ3ao3u8fQ" label="account_name" length="40" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mww01qY1Ee6kkJ3ao3u8fQ" label="user_name" length="40" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mww016Y1Ee6kkJ3ao3u8fQ" label="account_category" length="40" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mww02KY1Ee6kkJ3ao3u8fQ" label="user_country" length="40" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mww02aY1Ee6kkJ3ao3u8fQ" label="Followers" length="40" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mww02qY1Ee6kkJ3ao3u8fQ" label="Likes_avg" length="40" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mww026Y1Ee6kkJ3ao3u8fQ" label="Views_avg" length="40" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mww03KY1Ee6kkJ3ao3u8fQ" label="account_type" length="40" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
+  <deletedFolders>process/MediaProject</deletedFolders>
+  <deletedFolders>process/demo</deletedFolders>
+  <deletedItems id="_4kaOUKXBEe6j9JUyVXkg0A" path="" type="METADATA_FILE_DELIMITED"/>
+  <deletedItems id="__J0KsKYyEe6kkJ3ao3u8fQ" path="" type="METADATA_FILE_DELIMITED"/>
+  <deletedItems id="__uWPkKY8Ee6kkJ3ao3u8fQ" path="" type="METADATA_FILE_DELIMITED"/>
+  <deletedItems id="_aj1oIKY5Ee6kkJ3ao3u8fQ" path="" type="METADATA_FILE_DELIMITED"/>
+  <deletedItems id="_E_bPcKXAEe6j9JUyVXkg0A" path="" type="PROCESS"/>
+  <deletedItems id="_XhkOIKYyEe6kkJ3ao3u8fQ" path="" type="PROCESS"/>
+  <deletedItems id="_xZzGIKXfEe6nqvIF8qLEgg" path="" type="PROCESS"/>
+  <deletedItems id="_GCHp0KY0Ee6kkJ3ao3u8fQ" path="MediaProject" type="PROCESS"/>
+  <deletedItems id="_qYiL4KS4Ee6TYcd8ix2hag" path="MediaProject" type="PROCESS"/>
+  <deletedItems id="_QKNNUGZ8EeWm5YvsrIoYzQ" path="demo" type="PROCESS"/>
+</recyclebin:RecycleBin>
